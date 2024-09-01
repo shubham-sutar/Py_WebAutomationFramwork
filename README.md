@@ -1,5 +1,5 @@
-- Name - Pramod
-- Author - Pramod
+- Name - Shubham
+- Author - Shubham
 
 ### Web Automation Framework with POM in Python(Selenium)
 ### Folder Structure
